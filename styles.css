@@ -87,7 +87,9 @@ body {
   padding: 2.5rem;
   width: 55%;
 }
-
+.sm-link {
+  color: #333333;
+}
 footer {
   background-color: #333333;
   color: white;
